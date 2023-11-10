@@ -348,7 +348,7 @@
       "name": "CC BY 4.0",
       "url": "http://creativecommons.org/licenses/by/4.0"
     },
-    "termsOfService": "/doc/TermsOfService",
+    "termsOfService": "https://met.no/doc/TermsOfService",
     "title": "Locationforecast",
     "version": "2.0"
   },
